@@ -1,0 +1,14 @@
+C:\Users\aula\source\repos\Trabalhopoo2\ControleBancario\bin\Debug\net8.0\ControleBancario.exe
+C:\Users\aula\source\repos\Trabalhopoo2\ControleBancario\bin\Debug\net8.0\ControleBancario.deps.json
+C:\Users\aula\source\repos\Trabalhopoo2\ControleBancario\bin\Debug\net8.0\ControleBancario.runtimeconfig.json
+C:\Users\aula\source\repos\Trabalhopoo2\ControleBancario\bin\Debug\net8.0\ControleBancario.dll
+C:\Users\aula\source\repos\Trabalhopoo2\ControleBancario\bin\Debug\net8.0\ControleBancario.pdb
+C:\Users\aula\source\repos\Trabalhopoo2\ControleBancario\obj\Debug\net8.0\ControleBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aula\source\repos\Trabalhopoo2\ControleBancario\obj\Debug\net8.0\ControleBancario.AssemblyInfoInputs.cache
+C:\Users\aula\source\repos\Trabalhopoo2\ControleBancario\obj\Debug\net8.0\ControleBancario.AssemblyInfo.cs
+C:\Users\aula\source\repos\Trabalhopoo2\ControleBancario\obj\Debug\net8.0\ControleBancario.csproj.CoreCompileInputs.cache
+C:\Users\aula\source\repos\Trabalhopoo2\ControleBancario\obj\Debug\net8.0\ControleBancario.dll
+C:\Users\aula\source\repos\Trabalhopoo2\ControleBancario\obj\Debug\net8.0\refint\ControleBancario.dll
+C:\Users\aula\source\repos\Trabalhopoo2\ControleBancario\obj\Debug\net8.0\ControleBancario.pdb
+C:\Users\aula\source\repos\Trabalhopoo2\ControleBancario\obj\Debug\net8.0\ControleBancario.genruntimeconfig.cache
+C:\Users\aula\source\repos\Trabalhopoo2\ControleBancario\obj\Debug\net8.0\ref\ControleBancario.dll
